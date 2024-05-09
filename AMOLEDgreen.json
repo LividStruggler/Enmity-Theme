@@ -1,15 +1,15 @@
 {
-    "name": "Amoled Bright",
+    "name": "Amoled Bright Green",
     "version": "1.0.0",
-    "description": "yes but black but a little brighter",
+    "description": "yes but black but a little brighter and green",
     "authors": [
         {
             "name": "Kief",
             "id": "757661857891876904"
         },
         {
-            "name": "eternal",
-            "id": "263689920210534400"
+            "name": "Livid",
+            "id": "361689346073559050"
         }
     ],
     "theme_color_map": {
@@ -26,8 +26,8 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FBFBFB",
-            "#FFFFFF"
+            "#4aef97",
+            "#4aef97"
         ],
         "TEXT_MUTED": [
             "#B6B6B6",
