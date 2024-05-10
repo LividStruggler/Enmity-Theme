@@ -40,16 +40,16 @@
             "#C8C8C8"
         ],
         "KEYBOARD": [
-            "#0D0D0D",
-            "#0D0D0D"
+            "#0a6f00",
+            "#0a6f00"
         ],
         "TEXT_MUTED": [
             "#FFFFFF",
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF",
-            "#FFFFFF"
+            "#0a6f00",
+            "#0a6f00"
         ],
         "TEXT_PRIMARY": [
             "#0a6f00",
@@ -58,10 +58,10 @@
     },
     "rawColors": {
         "PRIMARY_600": "#00B344",
-        "PRIMARY_660": "#3A496B",
-        "BRAND_360": "#3A496B",
-        "BRAND_500": "#3A496B",
-        "BRAND_560": "#3A496B",
+        "PRIMARY_660": "#0a6f00",
+        "BRAND_360": "#0a6f00",
+        "BRAND_500": "#0a6f00",
+        "BRAND_560": "#0a6f00",
         "PLUM_6": "#FFFFFF",
         "PLUM_9": "#949BA4",
         "PLUM_10": "#8D919C",
